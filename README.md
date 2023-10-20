@@ -5,3 +5,5 @@ Meu nome é Gustavo Padilha
 -Utilizo esse espaço para minha organização e, compartilhamento dos projetos desenvolvidos;
 
 ## você pode entrar em contato comigo através do email g.roza@escola.pr.gov.br
+
+![](https://media.tenor.com/dQtAz6X2EQ8AAAAC/freedom.gif)
